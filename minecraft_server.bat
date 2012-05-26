@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jre6\bin\javaw.exe" -Xmx2048M -Xms2048M -jar Minecraft_Server.exe
